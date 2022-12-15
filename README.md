@@ -3,7 +3,7 @@
 ## [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-This repository contains the Javascript and SQL files for the e-commerce back end challenge for module 13. It allows the user to maintain a databse using mySql for an e-commerce page. It contains API routes that can perform the following actions:
+This repository contains the routes, seeds and server.js files for the e-commerce back end challenge for module 13. It allows the user to maintain a database using sequelize for an e-commerce page. It contains API routes that can perform the following actions:
 - Get all categories
 - Get all products
 - Get all tags
